@@ -16,6 +16,7 @@ This repository contains an interactive **Power BI dashboard** for Superstore sa
 
 - `Superstore_cleaned` - The dataset
 - `Superstore dashboard.pbix` - PowerBI Dashboard
+- ``
 - `📁 Screenshots` - Screenshots of the dashboard
 
 ## 🛠️ Tools Used
